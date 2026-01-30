@@ -1,2 +1,3 @@
-# Bit-Telegram
+# Bot-Telegram
 Bot Telegram dengan menggunakan library requests
+
